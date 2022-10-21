@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Java DSA.
+- 🌱 I’m currently learning Javascript and DSA.
 - 📫 How to reach me: ankitapradhan1915@gmail.com
-- 🎃 Participating as a hacker at Local Hack Day: Learn! 
+- 🎃 Participating as a hacker at Hacktoberfest! 
 - ⚡ Fun fact: Keep your mind busy even with fun .^-^.
-
+- 🗾 Learning Japanese language(beginner level)
