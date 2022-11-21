@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Javascript and DSA.
 - 📫 How to reach me: ankitapradhan1915@gmail.com
-- 🎃 Participating as a hacker at Hacktoberfest! 
+- 🎃 Searching for best learning opportunities!
 - ⚡ Fun fact: Keep your mind busy even with fun .^-^.
 - 🗾 Learning Japanese language(beginner level)
